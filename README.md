@@ -1,12 +1,11 @@
 - 👋 Hi, I’m Keith @dontslamthedoor
 - 👀 I’m interested in web applications and networking.
-- 🤓 I study Information Systems at University. AWS and VMware technologies are keen interests of mine.
-- ⌨️ I am exploring Go and it's capabilites for Cloud Architecture.
+- 🤓 I study Information Systems at Southern Connecicut State University. AWS and VMware technologies are interests of mine.
+- ⌨️ I am exploring Go
 - 🌱 I like plants! 
 - 💞️ I’m looking to collaborate on anything that's a challenge
 - 📫 Reach me at frog.whale@mailfence.com
 - 😄 Pronouns: He or Him
-- ⚡ Fun fact: I am a dude.
   
 
 <!---
