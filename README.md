@@ -3,7 +3,7 @@
 - 🤓 I study Information Systems at Southern Connecicut State University. AWS and VMware technologies are interests of mine.
 - ⌨️ I am exploring Go
 - 🌱 I like plants! 
-- 💞️ I’m looking to collaborate on anything that's a challenge
+- 💞️ I’m looking to collaborate on designing and developing and programming, especially cloud IAAC 
 - 📫 Reach me at frog.whale@mailfence.com
 - 😄 Pronouns: He or Him
   
