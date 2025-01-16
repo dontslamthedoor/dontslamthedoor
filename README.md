@@ -1,9 +1,12 @@
 - 👋 Hi, I’m Keith @dontslamthedoor
-- 👀 I’m interested in cloud networking and API design, AWS or any cloud architecture.
+- 👀 I’m interested in Cloud computing, Systems Design & Architecture, as well as programming with unpopular languages 🤓
 - 🤓 I study Information Systems at Southern Connecicut State University.
+- 🏫 A.S. in Computer Science 
+- 🏫 B.A. Computer Science
+- 🏫 My concentration is ...you guessed it! Cloud Computing!
 - 🇺🇸 US Army veteran 🪖 
-- ⌨️ C++, Python and Golang. 
-- 💞️ I’m looking to collaborate on designing and developing and programming.
+- ⌨️ C++, Python, Golang and Ruby. Python for AI/ML and Go for server-side code or IAC.
+- 💞️ I’m looking to collaborate on designing, developing and programming anything of value.
 - 📫 Reach me at frog.whale@mailfence.com
 - 😄 Pronouns: He or Him
 
