@@ -5,7 +5,7 @@
 - 🏫 B.A. Computer Science
 - 🏫 My concentration is Cloud Computing and am interested in work related to the Dev/Sec/Ops fields. 
 - 🇺🇸 US Army veteran 🪖 
-- ⌨️ C++, Python, Golang and Ruby. Python for AI/ML and Go for server-side code or IAC.
+- ⌨️ C++, Python, Golang and Ruby. Python for AI/ML and Go for server-side code or IAC. I like Ruby because of their killer app, Rails.
 - 💞️ I’m looking to collaborate on designing, developing and programming anything of value.
 - 📫 Reach me at frog.whale@mailfence.com
 - 😄 Pronouns: He or Him
